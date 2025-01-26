@@ -1,0 +1,191 @@
+{
+    "name": "Anudeep GI",
+    "contact_information": {
+        "phone_number": "+91 8921720345",
+        "email": "anu1488@gmail.com",
+        "location": "Bangalore, India"
+    },
+    "professional_summary": "Experienced Full Stack Developer with over 11 years of expertise in front-end and back-end development. Proficient in modern technologies like JavaScript, Node.js, ReactJS, and AWS. Demonstrated success in designing scalable web applications, collaborating with global teams, and implementing solutions across various industries. Known for excellent problem-solving skills, technical leadership, and delivering robust results in Agile environments.",
+    "skills": {
+        "frontend_technologies": [
+            {
+                "HTML": "Expert (8+ years)"
+            },
+            {
+                "CSS": "Expert (8+ years)"
+            },
+            {
+                "JavaScript": "Expert (11 years)"
+            },
+            {
+                "ReactJS": "Intermediate (6+ years)"
+            },
+            {
+                "Redux": "Intermediate"
+            },
+            {
+                "MobX": "Intermediate"
+            },
+            {
+                "AngularJS 1 & 2": "Beginner"
+            },
+            {
+                "JQuery": "Expert (7+ years)"
+            },
+            {
+                "Bootstrap": "Beginner (4+ years)"
+            }
+        ],
+        "backend_technologies": [
+            {
+                "Node.js (ExpressJS)": "Expert (6+ years)"
+            },
+            {
+                "PHP (CodeIgniter)": "Expert (5+ years)"
+            },
+            {
+                "Python": "Basic proficiency"
+            },
+            {
+                "Ruby on Rails": "Beginner"
+            },
+            {
+                "RESTful API Design and Implementation": "Expert"
+            }
+        ],
+        "databases": [
+            "MySQL (Intermediate, 4+ years)",
+            "MongoDB (Intermediate)"
+        ],
+        "cloud_and_devops": [
+            "AWS Services: Lambda, API Gateway, EC2, S3, RDS, EventBridge",
+            "VPS Hosting (SSDNode)",
+            "Shared Hosting: GoDaddy, Bluehost, HostGator",
+            "CI/CD Pipelines: Protractor.js, Jenkins"
+        ],
+        "cms": [
+            "WordPress (Intermediate, 3+ years)",
+            "SilverStripe (Beginner)"
+        ],
+        "version_control_and_tools": [
+            "Git",
+            "SVN",
+            "Adobe Photoshop",
+            "Adobe Illustrator",
+            "Prototyping and Wireframing Tools"
+        ],
+        "soft_skills": [
+            "Agile and Scrum Methodologies",
+            "Team Collaboration",
+            "Problem-Solving and Risk Mitigation",
+            "Client and Stakeholder Communication"
+        ]
+    },
+    "professional_experience": [
+        {
+            "company_name": "Schneider Electric",
+            "role": "Full Stack Developer",
+            "duration": "Jan 2024 \u2013 Present",
+            "summary": "Worked on multiple projects collaborating with global teams, including managers from different regions. Led daily calls to gather and implement requirements, building scalable tools and APIs. Effectively handled ongoing projects across different teams.",
+            "responsibilities": [
+                "Migrated AWS applications across accounts with minimal downtime.",
+                "Enhanced infrastructure by replacing EC2 instances with Lambda functions and schedulers, improving efficiency.",
+                "Set up and optimized API Gateway and Lambda functions, reducing load times significantly.",
+                "Improved React codebases, migrating static assets to S3 and implementing best practices.",
+                "Collaborated with global teams to deliver secure public-facing web applications.",
+                "Built and managed data-fetching schedulers to integrate with SAP and other systems.",
+                "Implemented features and functionality using React and Redux while addressing security for public-facing APIs."
+            ],
+            "technologies_used": "ReactJS, Redux, Node.js, AWS (Lambda, API Gateway, S3, RDS), HTML, CSS"
+        },
+        {
+            "company_name": "Accenture",
+            "role": "Software Engineer",
+            "duration": "Apr 2020 \u2013 Jan 2024",
+            "summary": "Collaborated closely with multiple high-profile clients, including Microsoft, Cigna, and Charter Communications. Actively contributed to project planning, debugging, and building scalable full-stack solutions to meet client needs.",
+            "responsibilities": [
+                "Client: Microsoft - Developed and enhanced features for the Microsoft Teams Admin Center. Resolved UI bugs and migrated legacy APIs to improve performance. Built E2E test cases using Protractor.js and monitored API failures with Kusto logs.",
+                "Client: Cigna - Created an admin panel with CRUD operations and RESTful API integration. Collaborated with UI/UX designers to transform Adobe XD designs into responsive interfaces. Built reusable components for company-wide usage.",
+                "Client: Charter Communications - Migrated Angular components to newer frameworks. Debugged PR blockers and optimized solutions for Agile sprints."
+            ],
+            "technologies_used": "ReactJS, Redux, Angular, Material UI, AWS, Node.js, Protractor.js, Python"
+        },
+        {
+            "company_name": "DIYA SYSTEM",
+            "role": "Senior Software Developer",
+            "duration": "Jun 2016 \u2013 Sep 2019",
+            "summary": "Worked on advanced chatbot functionality and dynamic web applications while collaborating with teams on designing APIs and full-stack solutions. Focused on improving user experiences and delivering robust results.",
+            "responsibilities": [
+                "Designed and implemented chatbots using Landbot and Dialogflow APIs.",
+                "Built RESTful APIs with Node.js and MySQL for high-performing applications.",
+                "Transformed PSD designs into fully functional web pages using modern front-end technologies.",
+                "Spearheaded HR chatbot development, from requirements gathering to deployment, integrating MongoDB for data storage."
+            ],
+            "technologies_used": "ReactJS, Node.js, MySQL, Dialogflow API, Angular 6"
+        },
+        {
+            "company_name": "Utile Software Solutions Pvt. Ltd.",
+            "role": "Software Engineer",
+            "duration": "Dec 2015 \u2013 May 2016",
+            "summary": "Contributed to responsive web design and backend integration for WordPress-based projects. Delivered customized solutions to clients while improving performance and design consistency.",
+            "responsibilities": [
+                "Developed WordPress themes and integrated AngularJS APIs.",
+                "Delivered intuitive, responsive user interfaces.",
+                "Conducted testing and debugging to ensure consistency and performance."
+            ],
+            "technologies_used": "WordPress, AngularJS, HTML, CSS"
+        },
+        {
+            "company_name": "GigaQuirks (Remote)",
+            "role": "Software Engineer",
+            "duration": "Apr 2014 \u2013 Jul 2015",
+            "summary": "Worked remotely with Singapore-based managers, focusing on database design, backend development, and seamless frontend integration for business solutions.",
+            "responsibilities": [
+                "Designed scalable database structures and interactive web interfaces.",
+                "Built and deployed web applications using PHP (CodeIgniter) and JavaScript.",
+                "Managed the 'Select Group' project, creating custom database solutions and ensuring seamless integration with the front end."
+            ],
+            "technologies_used": "PHP (CodeIgniter), JavaScript, JQuery, MySQL"
+        },
+        {
+            "company_name": "Code Craft Technology",
+            "role": "Software Engineer",
+            "duration": "Jan 2013 \u2013 Jan 2014",
+            "summary": "Contributed to various client projects, building admin panels, event suggestion apps, and CMS solutions. Focused on designing APIs and optimizing user interfaces.",
+            "responsibilities": [
+                "Developed a location-based event suggestion app using CodeIgniter and MySQL.",
+                "Created admin panels, REST APIs, and CMS solutions for client projects.",
+                "Debugged and optimized JavaScript, CSS, and PHP components.",
+                "Built the Renault New Zealand Landing Page, implementing CMS and creating user-friendly designs.",
+                "Created the Birthday Buddy app, integrating push notifications and RESTful APIs."
+            ],
+            "technologies_used": "PHP (CodeIgniter), JQuery, HTML, Bootstrap, MySQL"
+        },
+        {
+            "company_name": "BillMailID Pvt. Ltd.",
+            "role": "Junior Software Developer",
+            "duration": "Aug 2011 \u2013 Jan 2013",
+            "summary": "Worked at a startup environment, gaining experience in building applications from scratch, including payment systems and user-friendly web designs.",
+            "responsibilities": [
+                "Built web applications using Ruby on Rails and PHP.",
+                "Designed and implemented social login functionality and custom popups.",
+                "Created visually appealing landing pages using PSD-to-HTML conversion.",
+                "Developed PayMyCableTV.in from scratch, creating database structures, login systems, and admin panels.",
+                "Designed and developed landing pages for BMDhouse.com."
+            ],
+            "technologies_used": "Ruby on Rails, PHP, JQuery, HTML, CSS"
+        }
+    ],
+    "academic_credentials": [
+        "Bachelor of Computer Application, Mangalore University (2009)",
+        "Diploma in Animation & VFX, Genius Port (2010)",
+        "Android Application Development, Genius Port (2011)"
+    ],
+    "languages": [
+        "English",
+        "Hindi",
+        "Kannada",
+        "Malayalam",
+        "Tulu"
+    ]
+}
